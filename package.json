@@ -1,5 +1,4 @@
-
-  {
+{
       "name": "Lucky Draw Wheel Interface",
       "version": "0.1.0",
       "private": true,
@@ -54,7 +53,8 @@
           "vite": "6.3.5"
       },
       "scripts": {
-          "dev": "vite",
-          "build": "vite build"
+          "dev": "next dev",
+          "build": "next build",
+          "start": "next start"
       }
   }
